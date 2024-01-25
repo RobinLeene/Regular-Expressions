@@ -1,5 +1,3 @@
-# Robin Leeme
-
 import os
 import re
 
